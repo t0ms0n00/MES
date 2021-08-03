@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1611057739 source:c:\users\tomek\desktop\rrir_projekt\boron_tomasz_rrir\main.cpp
+	<iostream>
+	<Eigen/Dense>
+	<cmath>
+	<fstream>
+	<stdlib.h>
+	<unistd.h>
+
